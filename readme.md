@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jainithissh S</h1>
+<h1 align="center">Hi 👋, I'm Jainithissh S</h1>
 <h3 align="center">3rd-year B.Tech CSE (AI) student @ Amrita Vishwa Vidyapeetham</h3>
 
 <p align="center">
@@ -87,12 +87,14 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JainithisshS&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainithisshS&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://img.shields.io/github/followers/JainithisshS?style=for-the-badge&logo=github&color=2F80ED&labelColor=181717" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/JainithisshS?style=for-the-badge&logo=github&color=2F80ED&labelColor=181717" alt="Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainithisshS&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Pinance-Kotlin-7F52FF?style=flat-square&logo=github" alt="Pinance"/>
+  <img src="https://img.shields.io/badge/distributed--task--queue-Python-3776AB?style=flat-square&logo=github" alt="distributed-task-queue"/>
+  <img src="https://img.shields.io/badge/f1--hybrid--forecasting-Jupyter-F37626?style=flat-square&logo=github" alt="f1-hybrid-forecasting"/>
 </p>
 
 ---
